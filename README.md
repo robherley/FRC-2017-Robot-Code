@@ -33,9 +33,8 @@ LB (Button 4) - Climb Motor
 Reconsider the button mappings for Gear Gate and Climb Motor, you currently have a button (boolean) to control a motor (which should be a float, to vary speed). Also, you currently have an axis (float) to control a solenoid that has binary states (On/Off). Maybe switching these two would be a better approach.
 
 --
-How to use: Place folder into "Labview Data" folder in Documents, open 2017 Robot Code.lvproj in Labview.
+**How to use:** Place folder into "Labview Data" folder in Documents, open 2017 Robot Code.lvproj in Labview.
 
-How to upload to robot: click Build Specifications. Right click "FRC Robot Boot up Deployment. Click "Build" first, then "Run as startup"
-![deploy](https://s3.amazonaws.com/screensteps_live/images/Wpilib/145335/6/rendered/1e07587d-3408-47a2-bc10-a75a8d5c3d64_display.png?AWSAccessKeyId=AKIAJRW37ULKKSXWY73Q&Expires=1487142161&Signature=Rp%2B4zxo4g30ty6DCMQTIY4ZmUnA%3D)
+**How to upload to robot:** Click Build Specifications. Right click "FRC Robot Boot up Deployment. Click "Build" first, then "Run as startup"
 
 --
