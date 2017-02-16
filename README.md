@@ -10,9 +10,9 @@
 **Current Actuators:**
 * Gear Gate [Solenoid 0]
   * Single Solenoid
-* Climb Motor [PWM 0]
+* Climb Motor [PWM 2]
   * Talon SRX
-* Shooter Motor [PWM 1]
+* Shooter Motor [PWM 3]
   * Talon SRX
 
 
